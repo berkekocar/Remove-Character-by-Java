@@ -8,7 +8,6 @@ IRWS DOCUMENT PRE-PROCESSING
 
 METHODOLOGY 
 
-
   Task1.java
  
   Description of the class:
@@ -23,10 +22,6 @@ METHODOLOGY
  		1- Compiled by javac Task1.java , Run by java Task.
  		2- stopwords.txt => stopwords list; This part automaticly taken by class.
  
- 
- 
- /
- /
   Task2.java
  
   Description of the class:
@@ -40,11 +35,6 @@ METHODOLOGY
  	Input:
  		1- Compiled by javac Task2.java , Run by java Task2
  
- 
- 
- 
- /
- /
   Task3.java
  
   Description of the class:
@@ -55,11 +45,6 @@ METHODOLOGY
  	Input:
  		1- Compiled by javac Task3.java , Run by java Task3
  
- 
- 
- 
- /
-  /
   Task4.java
  
   Description of the class:
@@ -71,9 +56,6 @@ METHODOLOGY
  		1- Compiled by javac Task4.java , Run by java Task4
  
  
- 
- 
- / /
   Task5.java
  
   Description of the class:
